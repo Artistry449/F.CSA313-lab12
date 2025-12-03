@@ -135,7 +135,7 @@ Other major flows:
 [Idle_1] --CabinRequest(2)/startUp--> [MovingUp_12] --Arrive(2)--> [DoorOpen_2] --DoorTimerExpired--> [Idle_2]
 [Idle_2] --CabinRequest(B)/startDown--> [MovingDown_21] --Arrive(1)--> [DoorOpen_1]
 [Idle_1] --CabinRequest(B)/startDown--> [MovingDown_1B] --Arrive(B)--> [DoorOpen_B]
-
+```
 
 # Шинж (Properties) — Ямар зүйлийг шалгах ёстой
 
